@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pattern Lock Breaker</string>
+    <string name="action_settings">Settings</string>
+    <string name="takePhoto_btn">Take Photo</string>
+    <string name="manage_btn">Manage Images</string>
+    <string name="quit_btn">Quit</string>
+    <string name="retake">Retake</string>
+    <string name="discard">Discard</string>
+    <string name="process">Process</string>
+    <string name="imgPreview">Image preview</string>
+    <string name="settings_btn">Settings</string>
+    <string name="lower_threshold">Lower Threshold:</string>
+    <string name="upper_threshold">Upper Threshold:</string>
+    <string name="title_activity_file_selection">FileSelectionActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="back_btn">Back</string>
+    <string name="save_btn">Save</string>
+    <string name="reset_btn">Reset</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="confirm_btn">Confirm</string>
+    <string name="title_activity_node_extraction">NodeExtraction</string>
+    <string name="btn_reloadTrainingPatterns">Reload Training Patterns</string>
+    <string name="loadAllPatterns_btn">Load All Patterns</string>
+
+</resources>
